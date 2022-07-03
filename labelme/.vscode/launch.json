@@ -1,0 +1,41 @@
+{
+    //***************labelimg***************//
+    // "python.condaPath": "/home/liangsa/.conda/envs/labelimg/conda-meta",
+    // "python.pythonPath": "/home/liangsa/.conda/envs/labelimg/bin/python",
+    // "python.autoComplete.extraPaths":["/home/liangsa/.conda/envs/labelimg/lib/python3.6/site-packages"],
+
+    //***************CenterNet***************//
+    // "python.condaPath": "/home/liangsa/.conda/envs/CenterNet/conda-meta",
+    // "python.pythonPath": "/home/liangsa/.conda/envs/CenterNet/bin/python",
+    // "python.autoComplete.extraPaths":["/home/liangsa/.conda/envs/CenterNet/lib/python3.6/site-packages"],
+
+    //***************fastreid***************//
+    // "python.condaPath": "/home/liangsa/.conda/envs/fastreid/conda-meta",
+    // "python.pythonPath": "/home/liangsa/.conda/envs/fastreid/bin/python",
+    // "python.autoComplete.extraPaths":["/home/liangsa/.conda/envs/fastreid/lib/python3.7/site-packages"],
+    
+    //***************Caffe***************//
+    // "python.venvPath": "/opt/Envs",
+    // "python.venvFolders": [
+    //     "envs",
+    //     "pyenv",
+    //     ".direnv",
+    //     ".env",
+    // ],
+    // "python.pythonPath": "/opt/Envs/pyenv/versions/Caffe/bin",
+    // "python.autoComplete.extraPaths":["/opt/Envs/pyenv/versions/Caffe/lib/python2.7/site-packages"],
+
+    //***************tensorflow***************//
+    "python.condaPath": "D:\\ProgramFiles\\Anaconda3\\envs\\tensorflow\\conda-meta",
+    "python.pythonPath": "D:\\ProgramFiles\\Anaconda3\\envs\\tensorflow\\python",
+    "python.autoComplete.extraPaths":["D:\\ProgramFiles\\Anaconda3\\envs\\tensorflow\\Lib\\site-packages"],
+
+
+    //***************OTHER***************//
+    "python.autoComplete.addBrackets":true,
+    "python.linting.enabled":true,
+    //"python.jediEnabled":false,
+    "workbench.colorTheme": "Visual Studio Light",
+    "terminal.integrated.fontFamily": "monospace",
+    "python.dataScience.alwaysTrustNotebooks": true,
+}
